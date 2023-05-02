@@ -4,8 +4,8 @@
 
 ### Latest posts
 
-  - [🔗 Javascript Switch Case](https://furkanleba.com/javascript-switch-case/)
-  - [🔗 CSS Yatay Menü Yapımı](https://furkanleba.com/css-yatay-menu-yapimi/)
-  - [🔗 React Native Custom Font Ekleme](https://furkanleba.com/react-native-custom-font-ekleme/)
-  - [🔗 Git'e Giriş](https://furkanleba.com/gite-giris/)
-  - [🔗 Intersection Observer API](https://furkanleba.com/intersection-observer-api/)
+  - [🔗 Javascript 30 - Gün 10](https://furkanleba.com/javascript-30-gun-10/)
+  - [🔗 Javascript 30 - Gün 9](https://furkanleba.com/javascript-30-gun-9/)
+  - [🔗 Javascript 30 - Gün 8](https://furkanleba.com/javascript-30-gun-8/)
+  - [🔗 Javascript 30 - Gün 7](https://furkanleba.com/javascript-30-gun-7/)
+  - [🔗 Javascript 30 - Gün 6](https://furkanleba.com/javascript-30-gun-6/)
