@@ -4,8 +4,8 @@
 
 ### Latest posts
 
-  - [🔗 Javascript 30 - Gün 17](https://furkanleba.com/javascript-30-gun-17/)
-  - [🔗 Javascript 30 - Gün 16](https://furkanleba.com/javascript-30-gun-16/)
-  - [🔗 Javascript 30 - Gün 15](https://furkanleba.com/javascript-30-gun-15/)
-  - [🔗 Javascript 30 - Gün 14](https://furkanleba.com/javascript-30-gun-14/)
-  - [🔗 Javascript 30 - Gün 13](https://furkanleba.com/javascript-30-gun-13/)
+  - [🔗 Javascript 30 - Gün 22](https://furkanleba.com/javascript-30-gun-22/)
+  - [🔗 Javascript 30 - Gün 21](https://furkanleba.com/javascript-30-gun-21/)
+  - [🔗 Javascript 30 - Gün 20](https://furkanleba.com/javascript-30-gun-20/)
+  - [🔗 Javascript 30 - Gün 19](https://furkanleba.com/javascript-30-gun-19/)
+  - [🔗 Javascript 30 - Gün 18](https://furkanleba.com/javascript-30-gun-18/)
