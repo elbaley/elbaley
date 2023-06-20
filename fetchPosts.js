@@ -34,7 +34,9 @@ In the fast-paced world of frontend development, I'm always seeking new opportun
 </a>
 <a href="mailto:lebafurkan@outlook.com">
 <img style="height:28px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/> 
-</a>`
+</a>\n
+### Latest posts\n
+`
 
 async function generateReadMe() {
   const DATA = {
