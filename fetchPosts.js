@@ -23,9 +23,8 @@ const fetchPosts = async (url) => {
  *  Use Mustache to render the readme with the data
  */
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const readmeHeader =`### Hello world! 👋\n
-I'm Furkan, a passionate frontend developer interested in React. \n
-In the fast-paced world of frontend development, I'm always seeking new opportunities to enhance my skills.\n
+const readmeHeader = `### Hello world! 👋\n
+I'm Furkan, a frontend developer based in Istanbul. \n
 ![elbaley's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=elbaley&theme=dark)
 \n
 ### Reach Me:\n
@@ -33,10 +32,10 @@ In the fast-paced world of frontend development, I'm always seeking new opportun
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a>
 <a href="mailto:lebafurkan@outlook.com">
-<img style="height:28px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/> 
+<img style="height:28px" src="https://img.shields.io/badge/mail-0f3464?style=for-the-badge&logo=microsoftoutlook"/> 
 </a>\n
 ### Latest posts\n
-`
+`;
 
 async function generateReadMe() {
   const DATA = {
